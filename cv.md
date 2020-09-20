@@ -25,8 +25,8 @@ Minsk Institute of Management | Econoics             | Modern Foreign Languages 
 
 ### Work Experience
 
-- December 2004 - May 2008 - Carnival Cruise Lines;
-- July 2008 - till now EPAM Systems;
+- December 2004 - May 2008 - Carnival Cruise Lines
+- July 2008 - till now - EPAM Systems
 
 ### Languages
 
