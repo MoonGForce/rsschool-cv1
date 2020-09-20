@@ -2,9 +2,9 @@
 
 ## Contacts
 
-* Skype taty_yal
-* Cell +375297748474
-* hakkatonuda@gmail.com
+* Skype: taty_yal
+* Cell: +375297748474
+* Email: hakkatonuda@gmail.com
 
 ### Frontend
 * HTML - Basic
