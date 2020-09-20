@@ -1,5 +1,5 @@
 ## Tatsiana Yaletskaya
-***
+
 ### FrontEnd Skills
 * HTML - Basic
 * CSS - Basic
@@ -18,9 +18,14 @@ Minsk Institute of Management | Econoics             | Modern Foreign Languages 
 
 ### Languages
 
-- English - advanced
-- German - intermediate
-- Italian - preintermediate
+- English - Advanced
+- German - Upper Intermediate
+- Italian - Low Intermediate
 
-### About 
+### About Myself
+
+I’m an outgoing person, and like shanging out with friends.
+I relax by watching Netflix or listening to music.
+I enjoy being physically active, and spend a lot of time doing yoga routine.
+
 
