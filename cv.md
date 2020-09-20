@@ -1,4 +1,4 @@
-## Tatsiana Yaletskaya
+# Tatsiana Yaletskaya
 
 ## Contacts
 
@@ -6,11 +6,17 @@
 * Cell +375297748474
 * hakkatonuda@gmail.com
 
-### FrontEnd Skills
+### FrontEnd
 * HTML - Basic
 * CSS - Basic
 * JavaScript - Basic
 * Git - Basic
+
+### Design
+
+* Adobe Photoshop
+* Adobe Illustrator
+* Figma 
 
 ### Education
 **Institution**               | **Faculty/College**  | **Department**           | **Degree** | **Speciality**                  | **Graduation Year**
