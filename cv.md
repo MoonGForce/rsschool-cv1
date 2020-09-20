@@ -1,5 +1,11 @@
 ## Tatsiana Yaletskaya
 
+## Contacts
+
+* Skype taty_yal
+* Cell +375297748474
+* hakkatonuda@gmail.com
+
 ### FrontEnd Skills
 * HTML - Basic
 * CSS - Basic
@@ -24,8 +30,8 @@ Minsk Institute of Management | Econoics             | Modern Foreign Languages 
 
 ### About Myself
 
-I’m an outgoing person, and like shanging out with friends.
-I relax by watching Netflix or listening to music.
-I enjoy being physically active, and spend a lot of time doing yoga routine.
+- I’m an outgoing person, and like shanging out with friends.
+- I relax by watching Netflix or listening to music.
+- I enjoy being physically active, and spend a lot of time doing yoga routine.
 
 
