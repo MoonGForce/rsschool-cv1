@@ -1,5 +1,5 @@
 ## Tatsiana Yaletskaya
-___
+***
 ### FrontEnd Skills
 * HTML - Basic
 * CSS - Basic
@@ -18,9 +18,9 @@ Minsk Institute of Management | Econoics             | Modern Foreign Languages 
 
 ### Languages
 
-- English - advanced;
-- German - intermediate;
-- Italian - preintermediate.
+- English - advanced
+- German - intermediate
+- Italian - preintermediate
 
 ### About 
 
