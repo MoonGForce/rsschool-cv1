@@ -7,8 +7,8 @@ ___
 * Git - Basic
 
 ### Education
-| **Institution**               | **Faculty/College**  | **Department**           | **Degree** | **Speciality**                  | **Graduation Year** | 
-| Minsk Institute of Management | Econoics             | Modern Foreign Languages | Specialist | Englisch and German Interpreter | 2004                |
+**Institution**               | **Faculty/College**  | **Department**           | **Degree** | **Speciality**                  | **Graduation Year**
+Minsk Institute of Management | Econoics             | Modern Foreign Languages | Specialist | Englisch and German Interpreter | 2004               
 
 ### Work Experience
 
