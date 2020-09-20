@@ -6,7 +6,7 @@
 * Cell +375297748474
 * hakkatonuda@gmail.com
 
-### FrontEnd
+### Frontend
 * HTML - Basic
 * CSS - Basic
 * JavaScript - Basic
