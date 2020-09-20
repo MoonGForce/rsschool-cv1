@@ -37,5 +37,16 @@
 1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - 48% Complete
 1. [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) - 30% Complete
 
+## Work Experience
+
+- December 2004 - May 2008 - Carnival Cruise Lines
+- July 2008 - till now - EPAM Systems
+
+## Languages
+
+- English - Advanced
+- German - Upper Intermediate
+- Italian - Low Intermediate
+
 
 
